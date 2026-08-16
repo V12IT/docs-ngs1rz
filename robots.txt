@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-xpew33.kujang138.shop/sitemap.xml
